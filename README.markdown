@@ -1,7 +1,9 @@
 == Welcome to Rails
 
-Rails is a web-application framework that includes everything needed to create
-database-backed web applications according to the Model-View-Control pattern.
+[*Rails is a web-application framework that includes everything needed to create
+database-backed web applications according to the Model-View-Control pattern.*](http://www.rails.com)
+
+This is the first_app readme.
 
 This pattern splits the view (also called the presentation) into "dumb"
 templates that are primarily responsible for inserting pre-built data in between
